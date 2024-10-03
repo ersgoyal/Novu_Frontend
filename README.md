@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## You can add multiple commas separated email in the email box.
+
 ## Available Scripts
 
 In the project directory, you can run:
